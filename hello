@@ -1,0 +1,7 @@
+echo "# hello_world" >> README.md 
+git init 
+git add README.md 
+git commit -m "первая фиксация" 
+git Branch -M main 
+git удаленное добавление источника https://github.com/AlcoholCoin69/hello_world.git
+ git push - ты родной, главный
